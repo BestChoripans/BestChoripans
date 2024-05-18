@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**BestChoripans/BestChoripans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```C++
 
-Here are some ideas to get you started:
+void setup(){
+  Serial.begin(9600);
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+void loop(){
+  Serial.print("Hola, mi nombre es Fernando ");
+  Serial.println("vivo en el sur de Chile 🇨🇱");
+  Serial.print("suelo hacer servidores de Minecraft Java de pequeña escala");
+  Serial.println("casi siempre son con plugins 🗿");
+  Serial.print("estoy aprendiendo Arduino ");
+  Serial.print("y pienso aprender Python, Java, HTML y JavaScript.");
+}
+
+
+
+
+
+
+
+
+
+
+```
