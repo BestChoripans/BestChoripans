@@ -1,6 +1,4 @@
-### Hi there 👋
-
-```C++
+ ```C++
 
 void setup(){
   Serial.begin(9600);
@@ -14,14 +12,5 @@ void loop(){
   Serial.print("estoy aprendiendo Arduino ");
   Serial.print("y pienso aprender Python, Java, HTML y JavaScript.");
 }
-
-
-
-
-
-
-
-
-
 
 ```
