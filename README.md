@@ -10,7 +10,8 @@ void loop(){
   Serial.print("suelo hacer servidores de Minecraft Java de pequeña escala");
   Serial.println("casi siempre son con plugins 🗿");
   Serial.print("estoy aprendiendo Arduino ");
-  Serial.print("y pienso aprender Python, Java, HTML, CSS y JavaScript.");
+  Serial.print("y estoy iniciando a aprender con Python, HTML, CSS y JavaScript.");
+  Serial.print("pienso aprender Java para hacer servers de mc mas profesionales 😎");
 }
 
 ```
