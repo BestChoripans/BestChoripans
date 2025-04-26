@@ -9,8 +9,10 @@ void loop(){
   Serial.println("vivo en el sur de Chile 🇨🇱");
   Serial.print("suelo hacer servidores de Minecraft Java de pequeña escala");
   Serial.println("casi siempre son con plugins 🗿");
-  Serial.print("estoy aprendiendo Arduino ");
-  Serial.print("y estoy iniciando a aprender con Python, HTML, CSS y JavaScript.");
+  Serial.print("tambien se programar en Arduino y ");
+  Serial.println("trabajar en HTML. ");
+  Serial.print("estoy aprendiendo CSS y JavaScript. ");
+  Serial.println("CSS y JavaScript.");
   Serial.print("pienso aprender Java para hacer servers de mc mas profesionales 😎");
 }
 
