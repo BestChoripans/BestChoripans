@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 
-- 🌱 I’m currently learning **MySQL and Python**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Minecraft Servers, HTML, CSS or Arduino**
+- 💬 Ask me about **Minecraft Servers, HTML, CSS, Javascript or Arduino**
 
 - 📫 How to reach me **enderrfer@gmail.com**
 
